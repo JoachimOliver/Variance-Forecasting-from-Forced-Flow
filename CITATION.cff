@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Variance Forecasting from Forced Flow: Liquidations, the Variance Risk Premium, and Crypto Volatility — Replication"
+type: software
+authors:
+  - given-names: "Joachim Oliver"
+    family-names: "Mampouya"
+    affiliation: "Masaryk University, Brno, Czech Republic"
+    orcid: "https://orcid.org/0000-0001-7442-7582"
+  - given-names: "Tomáš"
+    family-names: "Plíhal"
+    affiliation: "Masaryk University, Brno, Czech Republic"
+    orcid: "https://orcid.org/0000-0002-2578-488X"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Variance Forecasting from Forced Flow: Liquidations, the Variance Risk Premium, and Crypto Volatility"
+  authors:
+    - given-names: "Joachim Oliver"
+      family-names: "Mampouya"
+      orcid: "https://orcid.org/0000-0001-7442-7582"
+    - given-names: "Tomáš"
+      family-names: "Plíhal"
+      orcid: "https://orcid.org/0000-0002-2578-488X"
+  year: 2026

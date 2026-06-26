@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------------------
+# Licensed data — MUST NOT be committed (FirstRate Data is private-use only)
+# ---------------------------------------------------------------------------
+*_full_5min.txt
+*_5min.txt
+
+# ---------------------------------------------------------------------------
+# Large public Deribit tapes — exceed GitHub's 100 MB limit; fetch via scripts/
+# (the small DVOL csvs are committed and deliberately NOT matched here)
+# ---------------------------------------------------------------------------
+*_all_liquidations.csv
+*_usdc_all_liquidations.csv
+
+# ---------------------------------------------------------------------------
+# Pipeline outputs
+# ---------------------------------------------------------------------------
+output/
+output1/
+output2/
+output3/
+output_robust/
+output*.zip
+
+# ---------------------------------------------------------------------------
+# Python / Jupyter
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# ---------------------------------------------------------------------------
+# OS / editor cruft
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
